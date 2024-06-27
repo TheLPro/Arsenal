@@ -1,0 +1,4 @@
+studio\thelpro\c4\utils\Items.class
+studio\thelpro\c4\commands\AdminCommand.class
+studio\thelpro\c4\events\C4PlaceEvent.class
+studio\thelpro\c4\C4.class

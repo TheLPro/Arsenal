@@ -1,0 +1,7 @@
+name: C4
+version: '${project.version}'
+main: studio.thelpro.c4.C4
+api-version: '1.20'
+commands:
+  c4:
+    description: c4
