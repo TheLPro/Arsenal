@@ -1,0 +1,14 @@
+name: C4
+version: '${project.version}'
+main: studio.thelpro.c4.C4
+api-version: '1.20'
+commands:
+  c4:
+    description: c4
+permissions:
+  c4.bypassMines:
+    description: Be able to bypass mines
+    default: false
+  c4.admin:
+    description: Be able to give yourself items
+    default: op
